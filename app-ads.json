@@ -3,11 +3,12 @@
   "banner_enabled": true,
   "rewarded_enabled": true,
 
-  "banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "banner_unit_id": "ca-app-pub-1019031110999254/7417834599",
+  "rewarded_unit_id": "ca-app-pub-1019031110999254/4791671259",
 
   "api_base_url": "https://haveibeenpwned.com/",
   "show_ads_after_count": 0,
   "maintenance_mode": false,
   "maintenance_message": "Aplikasi sedang maintenance, silakan coba lagi nanti."
 }
+
