@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-03T12:00:00Z",
+  "ads_enabled": true,
+  "min_app_version": 1,
+  "units": {
+    "app_open": {
+      "enabled": true,
+      "id": "ca-app-pub-1019031110999254/1474671600",
+      "cooldown_seconds": 5
+    },
+    "interstitial": {
+      "enabled": true,
+      "id": "ca-app-pub-1019031110999254/2979324966",
+      "show_on_check": true,
+      "show_on_share": true,
+      "show_on_back": true,
+      "min_interval_seconds": 30
+    },
+    "banner": {
+      "enabled": true,
+      "id": "ca-app-pub-1019031110999254/8764828710"
+    }
+  }
+}
