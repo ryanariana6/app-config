@@ -15,7 +15,7 @@
       "show_on_check": true,
       "show_on_share": true,
       "show_on_back": true,
-      "min_interval_seconds": 30
+      "min_interval_seconds": 10
     },
     "banner": {
       "enabled": true,
