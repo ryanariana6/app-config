@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated_at": "2026-10-03T12:00:00Z",
-  "ads_enabled": false,
+  "ads_enabled": true,
   "min_app_version": 1,
   "units": {
     "app_open": {
